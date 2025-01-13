@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+  <h1>A full stack E-commerce Website using MongoDB,Nodejs, GraphQL</h1>
   <h1>Steps to Run the Project Successfully</h1>
 
   <h2>1. Install Node.js on Your System</h2>
